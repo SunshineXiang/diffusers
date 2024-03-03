@@ -1,3 +1,5 @@
+copy https://github.com/huggingface/diffusers/tree/main
+
 <p align="center">
     <br>
     <img src="https://raw.githubusercontent.com/huggingface/diffusers/main/docs/source/en/imgs/diffusers_library.jpg" width="400"/>
